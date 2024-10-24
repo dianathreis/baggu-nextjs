@@ -12,3 +12,32 @@ body {
   display: flex;
   flex-direction: column;
 }
+
+body, footer {
+  background-color:#f9f3e7;
+}
+
+
+/*logo position adjustment*/
+.navbar-brand {
+  margin-left: -70px;
+}
+
+/*Message bar customization*/
+.message-bar {
+  font-weight: 300;
+  font-size: 0.75rem;
+  position: relative;
+}
+
+.navbar {
+  top: 0;
+}
+
+.logo-img {
+  width: 100%;
+  height: auto;
+}
+
+
+
